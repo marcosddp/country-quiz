@@ -8,4 +8,4 @@ Historia de usuario: cuando respondo incorrectamente, puedo ver mis resultados e
 Historia de usuario: Puedo intentarlo de nuevo
 
 
-![Image text](https://ibb.co/6wjLdfW)
+![Image text](https://i.ibb.co/B30F1SC/countryquiz.png)
